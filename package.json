@@ -1,0 +1,27 @@
+{
+  "name": "com.playermadegames.utilities",
+  "version": "1.0.0",
+  "displayName": "PMG Utilies",
+  "description": "A collection of QOL scripting improvements for Unity.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Player Made Games",
+    "url": "https://github.com/16Byte"
+  },
+  "license": "MIT",
+  "keywords": [
+    "utilities",
+    "utils",
+    "qol",
+    "tools",
+    "scene change detector",
+    "pmg"
+  ],
+  "samples": [
+    {
+      "displayName": "SceneEvents Example",
+      "description": "Demonstrates the SceneEvents utility by logging the name of the scene you're unloading and the one you're loading. This is called only when a scene is changed via SceneEvents' ActiveSceneChanged callback. Useful for DontDestroyOnLoad managers.",
+      "path": "SceneEvents/Samples~"
+    }
+  ]
+}
