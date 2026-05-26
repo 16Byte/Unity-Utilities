@@ -1,7 +1,7 @@
 {
   "name": "com.playermadegames.utilities",
   "version": "1.0.0",
-  "displayName": "PMG Utilies",
+  "displayName": "PMG Utilities",
   "description": "A collection of QOL scripting improvements for Unity.",
   "unity": "6000.0",
   "author": {
