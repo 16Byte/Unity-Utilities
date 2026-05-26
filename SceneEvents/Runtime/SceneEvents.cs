@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace PMG.Utilities.SceneEvents
+namespace PMG.Utilities
 {
     public static class SceneEvents
     {
